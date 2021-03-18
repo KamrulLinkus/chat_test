@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391370608836",
+    "project_id": "socketnotification-test",
+    "storage_bucket": "socketnotification-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391370608836:android:5e5dc5b4255bef5fad7991",
+        "android_client_info": {
+          "package_name": "com.example.flutter_new_socket_server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391370608836-gurl5h8mb9umb66qpi0t3s337m9iq866.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEq3VhiLntsEfJP2yjadGDIu2T9T5bimY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391370608836-gurl5h8mb9umb66qpi0t3s337m9iq866.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
